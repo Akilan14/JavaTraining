@@ -1,4 +1,4 @@
-import java.io.*;
+import java.io.Scanner;
 public class ArrayIndex{
 public static void main(String[] args){
  Console c=System.console();
